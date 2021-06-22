@@ -121,7 +121,7 @@ function submitForm(event){
     student.getGrade()
     student.getStatus()
     saveData()
-    render()
+    // render()
 
 }
 
