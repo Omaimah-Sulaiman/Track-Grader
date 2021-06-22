@@ -2,12 +2,17 @@ body{
     background: url('../img/exam.jpg') no-repeat ;
     background-size: cover
 }
-
+header{
+    background-color: black;
+    color: white;
+    padding:4%;
+}
 header h1 {
     text-align: center;
 }
 
 main{
+    margin-top: 10%;
     position: relative;
 }
 
